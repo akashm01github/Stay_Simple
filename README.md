@@ -27,5 +27,6 @@ A minimalistic website with a clean and responsive design that showcases a hero 
 ## Screenshots
 - Mobile View
 - ![Project Banner](https://plus.unsplash.com/premium_photo-1685086785223-485f800ce410?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fFdFQlNJVEUlMjBERVNJR058ZW58MHx8MHx8fDA%3D)
+## [Resource] (https://dribbble.com/shots/16236399-Stay-simple)
 
 # Enjoy creating your stylish and responsive webpage! 😊
