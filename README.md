@@ -1,5 +1,5 @@
 # Stay Simple Website
-
+![Project Banner](https://images.unsplash.com/photo-1680016661694-1cd3faf31c3a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFdFQlNJVEUlMjBERVNJR058ZW58MHx8MHx8fDA%3D)
 ## Description
 A minimalistic website with a clean and responsive design that showcases a hero section, navbar, and a model image background. It adapts seamlessly across devices, from desktops to tablets and mobile phones.
 
