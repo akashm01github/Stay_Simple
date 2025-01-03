@@ -25,7 +25,7 @@ A minimalistic website with a clean and responsive design that showcases a hero 
 3. Modify the `style.css` file to customize styles if needed.
 
 ## Screenshots
-- Desktop View
 - Mobile View
+- ![Project Banner](https://plus.unsplash.com/premium_photo-1685086785223-485f800ce410?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fFdFQlNJVEUlMjBERVNJR058ZW58MHx8MHx8fDA%3D)
 
 # Enjoy creating your stylish and responsive webpage! 😊
