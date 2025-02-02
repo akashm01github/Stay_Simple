@@ -29,4 +29,4 @@ A minimalistic website with a clean and responsive design that showcases a hero 
 - ![Project Banner](https://github.com/akashm01github/Stay_Simple/blob/main/Screenshot%202025-01-04%20010010.png)
 ## [Resource] (https://dribbble.com/shots/16236399-Stay-simple)
 
-# Enjoy creating your stylish and responsive webpage! 😊
+# Enjoy creating your stylish and responsive webpage! 😊😊
